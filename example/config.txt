@@ -1,0 +1,2 @@
+Prefix plugins/Rival/example/
+Plugin Rival inputfile parameters.rival.txt outputfile rivalclubs.txt
